@@ -1,0 +1,261 @@
+{
+  "brand": "Vi Vet Bil AB",
+  "asset_set": "VVB_LOGO_RÄTT_V4",
+  "status": "approved source assets from Kristian-provided bundle",
+  "updated_at": "2026-06-02",
+  "rules": [
+    "Do not redesign these assets in VVB projects.",
+    "Use exact approved files as source-of-truth.",
+    "Use horizontal logo for PDF/document headers.",
+    "Use favicon files for web/app icons."
+  ],
+  "recommended": {
+    "pdf_header_logo": "assets/vvb-logo-ratt-v4/logos/04b-main-logo-horisontell-liten-ren_4x.png",
+    "main_logo_large": "assets/vvb-logo-ratt-v4/logos/01-main-logo-stor_4x.png",
+    "favicon_ico": "assets/vvb-logo-ratt-v4/favicons/favicon.ico",
+    "apple_touch_icon": "assets/vvb-logo-ratt-v4/favicons/apple-touch-icon.png",
+    "webmanifest": "assets/vvb-logo-ratt-v4/favicons/site.webmanifest"
+  },
+  "files": [
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod-1024x1024.png",
+      "bytes": 239815,
+      "sha256": "11ef81c8503a938f7f026e4b67c637d479dd9ae84aba0b00da8b4b5107cbe860"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod-128x128.png",
+      "bytes": 15981,
+      "sha256": "87b756656e897dac0c20670f508ad306937eced0bd43c624e5e29c14dc7f41d5"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod-16x16.png",
+      "bytes": 604,
+      "sha256": "1abdddf0df4325e6142c40447b6887902e33c3e96d1798addfcf38e2075dbc68"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod-180x180.png",
+      "bytes": 27910,
+      "sha256": "0517522be3bd19c030e969c4ba123d829761c01d1b46895cd2338811f58c09fe"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod-192x192.png",
+      "bytes": 31064,
+      "sha256": "b16d1d871cd20629bde20a3041f143c062e17a98d8be29d726f2da79cc1b4933"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod-24x24.png",
+      "bytes": 1102,
+      "sha256": "83c8d36015ec7f7b94f7f86b6a86e4002e6fde9bc0aea97eb26ea01b44c2a1d1"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod-256x256.png",
+      "bytes": 46730,
+      "sha256": "fefe52f6cd7d311c82484d7182a1c222c5654d0c2e846faa2ad86ec5bf5bb080"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod-32x32.png",
+      "bytes": 1649,
+      "sha256": "b5537638cacb4a1509ea9e896433e653983f5ac99be960fdb903a16ec13a50db"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod-384x384.png",
+      "bytes": 75687,
+      "sha256": "7985cc25a2cc8fc8e807e108cd5286d0f6da9fbcdcc44c933aadae53b0d5661a"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod-48x48.png",
+      "bytes": 3105,
+      "sha256": "88c8c825d1848a651e7c7fe55d0ef867ed92d7c7f4146e4ab8c50540090cd2e9"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod-512x512.png",
+      "bytes": 103854,
+      "sha256": "8abdf3966d9f093eeab73c5a1fd005365b9fdeb8137c664ee5c7e58074398400"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod-64x64.png",
+      "bytes": 4904,
+      "sha256": "9d355f8e802b9207943c742ce0993547297e01716f0f8f5f69b7d4292b673a33"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod-96x96.png",
+      "bytes": 9724,
+      "sha256": "57eeb73be9a7f599f04832e66327d55b9eb3a29b8d96ac2d6d50912c16c82267"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/05-favicon-rod.ico",
+      "bytes": 24713,
+      "sha256": "26b7567e46b1fdf533cb9a4b478807894f89c68bbcc55b5da601eb9a096f43d4"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork-1024x1024.png",
+      "bytes": 266543,
+      "sha256": "29000fbb8fdda0a1647138537fadb13a472e4fb856ff648bcd9dca926fb39735"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork-128x128.png",
+      "bytes": 16854,
+      "sha256": "729b01709413ed7a3a8e18c582f96952db3a0654ab5c8c7dfca950fa0025917a"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork-16x16.png",
+      "bytes": 576,
+      "sha256": "e0ef0cf751e71aed40c7c55fdc4cd2fe4d1da1ae1eedb49b1e6e6d084f29612e"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork-180x180.png",
+      "bytes": 30582,
+      "sha256": "a8075540cf4124e786c9ef1471f98c09f7799c0b9f385763cac0949973a96d63"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork-192x192.png",
+      "bytes": 33994,
+      "sha256": "94816ad5a52920cc98ab83b7e9cc667c8f58e1ca8edf92faededba910a7fd72d"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork-24x24.png",
+      "bytes": 1036,
+      "sha256": "4c75348f099a7edc8548b196960345b3e70b48cc14871d4df2ccb0f6421bbe73"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork-256x256.png",
+      "bytes": 52366,
+      "sha256": "94cf295ae9f10e16d25fdbce5bfa6914507515e1e2eda3437001f2b617110dab"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork-32x32.png",
+      "bytes": 1570,
+      "sha256": "b6eeae146d1edfdaf25c8783f3314b06b0e60c05da3d2623de0aa2e44f118e77"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork-384x384.png",
+      "bytes": 85799,
+      "sha256": "dcf02d9428ea3f33bfbb70680849135ac5673d2c45bca3987afc50cf5472c5e1"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork-48x48.png",
+      "bytes": 2933,
+      "sha256": "b2e37ba386987ef277ae72e5551c99df3e2ca3dbdc2b125aa03e1213a62a04da"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork-512x512.png",
+      "bytes": 117587,
+      "sha256": "07cf3e3205b0dd330152b928e27a95c5ad5cda6decdbf36574e3dac25441eecf"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork-64x64.png",
+      "bytes": 4879,
+      "sha256": "0ee8b99e94ba9fbcde53343e9f4900c51c6d6a12e5172846676bbc842f70c557"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork-96x96.png",
+      "bytes": 10089,
+      "sha256": "67f009f7db660ed10aa573e41d3ee1f9bb53b68e6052ec5777da47af7730456d"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/06-favicon-mork.ico",
+      "bytes": 25963,
+      "sha256": "f61f718ca0707a53ffaa738050f29b1a8eb21db8fc7008337e82bb4c67793239"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/android-chrome-192x192.png",
+      "bytes": 33994,
+      "sha256": "94816ad5a52920cc98ab83b7e9cc667c8f58e1ca8edf92faededba910a7fd72d"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/android-chrome-512x512.png",
+      "bytes": 117587,
+      "sha256": "07cf3e3205b0dd330152b928e27a95c5ad5cda6decdbf36574e3dac25441eecf"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/apple-touch-icon.png",
+      "bytes": 30582,
+      "sha256": "a8075540cf4124e786c9ef1471f98c09f7799c0b9f385763cac0949973a96d63"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/favicon-16x16.png",
+      "bytes": 576,
+      "sha256": "e0ef0cf751e71aed40c7c55fdc4cd2fe4d1da1ae1eedb49b1e6e6d084f29612e"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/favicon-32x32.png",
+      "bytes": 1570,
+      "sha256": "b6eeae146d1edfdaf25c8783f3314b06b0e60c05da3d2623de0aa2e44f118e77"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/favicon.ico",
+      "bytes": 25963,
+      "sha256": "f61f718ca0707a53ffaa738050f29b1a8eb21db8fc7008337e82bb4c67793239"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/html-head-snippet.txt",
+      "bytes": 365,
+      "sha256": "b3d9abd84a6cb401ac4018c18e6723d01be13e8b3937031848cc9a13710204f0"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/favicons/site.webmanifest",
+      "bytes": 382,
+      "sha256": "4389aadd1189d0dd06759d74cfea7174c28af5c701608392c3f0011fe5a1e4b6"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/logos/01-main-logo-stor.png",
+      "bytes": 420486,
+      "sha256": "67d3b747f7da6b804ddaa7f8d12fab60af88885b1fbb41427173f43652c36cd7"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/logos/01-main-logo-stor.svg",
+      "bytes": 560874,
+      "sha256": "e8c1ef8a3cb768f3a278cdd051a93636e9fd26270e6431be11e621a5e21b889a"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/logos/01-main-logo-stor_4x.png",
+      "bytes": 1985360,
+      "sha256": "8d0140ed3c753db21b2531939ada8fbc2f415c73f921e6007a9136d7e95d8c12"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/logos/04b-main-logo-horisontell-liten-ren.svg",
+      "bytes": 73782,
+      "sha256": "a22f2a22abc44c93aab8b9736dfb7e63d12fd2f21e0b43fdf284b5a69643371b"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/logos/04b-main-logo-horisontell-liten-ren_4x.png",
+      "bytes": 348263,
+      "sha256": "06ab615e83da5fa334ce91694e598f5a406847867017c0a99d20cb1b45d196b8"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/logos/05-favicon-rod.png",
+      "bytes": 38950,
+      "sha256": "dd8313c7b67a9299309c676818ffe9cc1056a3095f0e09c0ff1b531b5baaee88"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/logos/05-favicon-rod.svg",
+      "bytes": 52159,
+      "sha256": "0a4c26956e05624d2114bdf30b6b369c604c52249301977e4341501bb354f4a8"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/logos/06-favicon-mork.png",
+      "bytes": 42989,
+      "sha256": "2adb7c7abea5428d11891f33b21c42b9ce3d639fad0e079efcd692d1f8db6242"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/logos/06-favicon-mork.svg",
+      "bytes": 57543,
+      "sha256": "a146f7a5430d4d45cba2519e93e676664c8e553a0215e2837c7b93384eebe5a7"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/logos/DENNA ÄR RÄTT_RÖD_RÖD_VIT.png",
+      "bytes": 819290,
+      "sha256": "3d48f38e55b937934d0b09a09a792e57c204bd45c9303f50dc814c944e90d1b3"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/logos/RÄTT_ANNAN_VARIANT_RÖD_RÖD_VIT.png",
+      "bytes": 420486,
+      "sha256": "67d3b747f7da6b804ddaa7f8d12fab60af88885b1fbb41427173f43652c36cd7"
+    },
+    {
+      "path": "assets/vvb-logo-ratt-v4/source-bundle/VVB_LOGO_RATT_V4-original-upload.zip",
+      "bytes": 6976685,
+      "sha256": "3277237602551f4a4864d1bbb489faa6366ea0aa5ac2354a68822be93a3f0161"
+    }
+  ]
+}
