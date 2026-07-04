@@ -1,16 +1,16 @@
 # VVB Brand Assets
 
-Officiella/standardiserade brand-assets för **Vi Vet Bil AB**.
+Standardiserade brand-assets för **VVB**.
 
 ## Source of truth
 
 Aktuell standard: `assets/vvb-logo-ratt-v4/`
 
-Dessa filer kommer från Kristians godkända bundle `VVB_LOGO_RÄTT_V4` och ska användas som source-of-truth i VVB-dokument, PDF:er, appar och webbprojekt.
+Dessa filer är den godkända asset-bundlen och ska användas som source-of-truth i VVB-dokument, PDF:er, appar och webbprojekt.
 
 ## Viktig regel
 
-Crab/AI ska **inte designa om** VVB-logotypen. Använd befintliga godkända assets exakt, eller be om extern designer/premium-vectorizer vid designbehov.
+Automatiserade verktyg ska **inte designa om** VVB-logotypen. Använd befintliga godkända assets exakt, eller lyft separat designbehov innan nya varianter skapas.
 
 ## Rekommenderade filer
 
