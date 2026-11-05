@@ -20,17 +20,19 @@ Två oberoende urval landade alltså på samma logga. Därför är VV^B-monogram
 ## Primärt (använd alltid i första hand)
 | Fil | Användning |
 |---|---|
-| `assets/primary/vvb-monogram-lockup-rod-rod-vit.png` | Huvudlogga: inloggning, PDF-försättsblad, profilbild, skylt |
-| `assets/primary/vvb-main-logo-hero-car.png` | Stora ytor med bil: hero, banner, bakgrund till inloggning |
-| `assets/primary/vvb-logo-horizontal-small.png` | Sidhuvud, PDF-header, mejlsignatur, appens header |
-| `assets/primary/vvb-favicon-red.svg`, `assets/primary/vvb-favicon-dark.svg`, `assets/primary/favicon.ico` | Favicon och appikon |
+| `assets/vvb-brand-standard-v1/assets/primary/vvb-monogram-lockup-rod-rod-vit.png` | Huvudlogga: inloggning, PDF-försättsblad, profilbild, skylt |
+| `assets/vvb-brand-standard-v1/assets/primary/vvb-main-logo-hero-car.png` | Stora ytor med bil: hero, banner, bakgrund till inloggning |
+| `assets/vvb-brand-standard-v1/assets/primary/vvb-logo-horizontal-small.png` | Sidhuvud, PDF-header, mejlsignatur, appens header |
+| `assets/vvb-brand-standard-v1/assets/primary/vvb-favicon-red.svg` | Röd favicon |
+| `assets/vvb-brand-standard-v1/assets/primary/vvb-favicon-dark.svg` | Mörk favicon |
+| `assets/vvb-brand-standard-v1/assets/primary/favicon.ico` | Favicon och appikon |
 
 ## Sekundärt (komplement, aldrig ersättning)
 | Fil | Användning |
 |---|---|
-| `assets/secondary/vvb-wordmark-horizontal-dark.png` | Smala ytor utan plats för monogrammet, t.ex. sidfot och smal banner. |
-| `assets/secondary/vvb-car-silhouette-wordmark-dark.png` | Kampanj, sociala medier, merch. Inte i logotypfält. |
-| `assets/secondary/vvb-car-silhouette-banner-dark.png` | Bred kampanjbanner och webbhero. Inte i logotypfält. |
+| `assets/vvb-brand-standard-v1/assets/secondary/vvb-wordmark-horizontal-dark.png` | Smala ytor utan plats för monogrammet, t.ex. sidfot och smal banner. |
+| `assets/vvb-brand-standard-v1/assets/secondary/vvb-car-silhouette-wordmark-dark.png` | Kampanj, sociala medier, merch. Inte i logotypfält. |
+| `assets/vvb-brand-standard-v1/assets/secondary/vvb-car-silhouette-banner-dark.png` | Bred kampanjbanner och webbhero. Inte i logotypfält. |
 
 <!-- /coderabbit-ai-generated:v1 -->
 
