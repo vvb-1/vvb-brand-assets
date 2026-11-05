@@ -23,7 +23,7 @@ Två oberoende urval landade alltså på samma logga. Därför är VV^B-monogram
 | `secondary/vvb-car-silhouette-banner-dark.png` | Bred kampanjbanner och webbhero. Inte i logotypfält. |
 
 ## Avvisat (ska inte användas)
-- **Bokstav-V i rundad ruta** (`01–06_vi_vet_bil_*`, `logo*.svg`, `Varumärkesguide`, `image-gen-1(1/2)`, `image-gen-2(1)`, `image-gen-3(1)`): Generisk mall-look, ingen VVB-DNA. **Den här ligger live som Nextcloud-logga i dag och ska bytas.**
+- **Bokstav-V i rundad ruta** (`01–06_vi_vet_bil_*`, `logo*.svg`, `Varumärkesguide`, `image-gen-1(1/2)`, `image-gen-2(1)`, `image-gen-3(1)`): Generisk mall-look, ingen VVB-DNA. Den här varianten ska inte användas.
 - **"KÖPER | SÄLJER | FÖRMEDLAR"** (`Sleek automotive logo design*.png`): Fel verksamhet. VVB är en verkstad, inte en bilhandlare.
 - **VVB i röd–vit–röd** (`image-gen-5.png`): Bryter monogramregeln röd–röd–vit.
 - **Märken, hexagon och cirkel** (`image-gen-1(1)`, `image-gen-4`): Fungerar bara till merch och dekaler, inte som logotyp.
@@ -33,15 +33,10 @@ Två oberoende urval landade alltså på samma logga. Därför är VV^B-monogram
 ## Regler
 1. VV^B ska alltid vara **röd–röd–vit**. Färgen får inte ändras och loggan får inte ritas om.
 2. Filerna har svart bakgrund utan transparens. Lägg dem bara på svarta ytor (#000–#111). På mörka ytor kan `mix-blend-mode: screen` användas. Använd dem aldrig på vit bakgrund.
-3. Färger: röd **#E01F38**, svart **#111111** / #000. Nextcloud använder i dag #E0201F, vilket ska rättas till #E01F38.
+3. Färger: röd **#E01F38**, svart **#111111** / #000.
 4. Taglinen **"DIN BIL. VÅR KUNSKAP."** följer med i stora format. Den tas bort i favicon och ikoner.
-5. Crab designar inte logotyper. Nya varianter, ljus version och vektor beställs från extern designer eller premium-vectorizer.
+5. Nya varianter, ljus version och vektor beställs från extern designer eller premium-vectorizer.
 
 ## Kvar att lösa
 - Det finns ingen äkta vektor (SVG) och ingen version med transparent bakgrund av huvudloggan. Båda behövs för tryck, dekaler och ljusa ytor. **Beställ från extern vectorizer.**
 - Ljus variant (mörk logga på vit bakgrund) saknas.
-
-## Hämta senare
-- MEGA: `/VVB-CRAB/_SYSTEM/BRAND/vvb-brand-standard-v1/`
-- Skill: `vvb-logo-redesign` → `references/vvb-brand-standard-v1.md`
-- Hindsight: sök "VVB-STANDARD logotyper v1"
