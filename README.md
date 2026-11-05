@@ -11,7 +11,14 @@ Detta repo är den godkända källan (source-of-truth) för VVB:s logotyper, fav
 Detta repo innehåller **enbart statiska assets** (bilder, ikoner, ett manifest och användningsdokumentation) - ingen körbar kod, inget byggsystem och inga beroenden att installera.
 
 Ingår:
-- Godkänd logotyp-bundle: `assets/vvb-logo-ratt-v4/`
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:0fbfda0984d9f4e85231645c1befe382c3a8272901be18c0c949fa7504140334 -->
+
+- Godkänd standard och utvalda assets: `assets/vvb-brand-standard-v1/`
+- Godkänd källbundle och kompletterande webbikoner: `assets/vvb-logo-ratt-v4/`
+
+<!-- /coderabbit-ai-generated:v1 -->
 - Favicons, app-ikoner och webmanifest för webbprojekt
 - Originalzip för spårbarhet (`source-bundle/`)
 - Manifest med filroller och SHA256-checksummor
@@ -27,13 +34,28 @@ Det finns inget att installera eller bygga - använd filerna direkt:
 
 1. Klona repot, eller länka direkt till en fil via en `raw.githubusercontent.com`-URL (se "Raw GitHub URLs" nedan).
 2. Välj rätt fil efter behov, se "Rekommenderade filer" nedan.
-3. Verifiera vid behov filens integritet mot `assets/vvb-logo-ratt-v4/manifest.json` (SHA256-checksum).
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:2fdbf8d7e79246d95a289853e0374b149569eeb82418f24fe3f0e87d6773e8f8 -->
+
+3. För V4-filer: verifiera vid behov filens integritet mot `assets/vvb-logo-ratt-v4/manifest.json` (SHA256-checksum). Manifestet omfattar endast V4-bundlen.
+
+<!-- /coderabbit-ai-generated:v1 -->
 
 Se `docs/usage.md` för konkreta kodexempel (PDF-header, webbfavicons).
 
 ## Struktur
 
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:d48444397bfc6da57231ed18661c601ed4ca434904cdb11056271683c5784ec9 -->
+
 ```
+assets/vvb-brand-standard-v1/
+├── VVB-BRAND-STANDARD.md  Godkänd standard och filroller
+└── assets/
+    ├── primary/          Primära logotyper och favicons
+    └── secondary/        Kompletterande assets
 assets/vvb-logo-ratt-v4/
 ├── logos/           Logotyper i SVG/PNG, olika storlekar och färgvarianter
 ├── favicons/         Favicons, app-ikoner och site.webmanifest för webbprojekt
@@ -43,11 +65,19 @@ docs/
 └── usage.md           Konkreta användningsexempel (PDF-header, webbfavicons)
 ```
 
+<!-- /coderabbit-ai-generated:v1 -->
+
 ## Source of truth
 
-Aktuell standard: `assets/vvb-logo-ratt-v4/`
+<!-- coderabbit-ai-generated:v1 -->
 
-Dessa filer är den godkända asset-bundlen och ska användas som source-of-truth i VVB-dokument, PDF:er, appar och webbprojekt.
+<!-- coderabbit-ai-generated-section:v1:b67fc87fb803eb816e600037ad61135cc28047ae15db9bfca004cb7dc44c07b4 -->
+
+Aktuell standard: `assets/vvb-brand-standard-v1/VVB-BRAND-STANDARD.md` (godkänd av Kristian 2026-11-05).
+
+Använd filerna i `assets/vvb-brand-standard-v1/assets/` enligt standardens filroller. V4-bundlen i `assets/vvb-logo-ratt-v4/` behålls för befintliga länkar och kompletterande webbikoner (Apple touch icon och webmanifest).
+
+<!-- /coderabbit-ai-generated:v1 -->
 
 ## Viktig regel
 
@@ -55,9 +85,16 @@ Automatiserade verktyg ska **inte designa om** VVB-logotypen. Använd befintliga
 
 ## Rekommenderade filer
 
-- PDF-/dokumentheader: `assets/vvb-logo-ratt-v4/logos/04b-main-logo-horisontell-liten-ren_4x.png`
-- Stor huvudlogga: `assets/vvb-logo-ratt-v4/logos/01-main-logo-stor_4x.png`
-- Favicon ICO: `assets/vvb-logo-ratt-v4/favicons/favicon.ico`
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:1461240d1b7142221cb968c717518d6033fd321d3174bf8f586526319a20fd3f -->
+
+- PDF-/dokumentheader: `assets/vvb-brand-standard-v1/assets/primary/vvb-logo-horizontal-small.png` (på svart yta enligt standarden)
+- Stor huvudlogga: `assets/vvb-brand-standard-v1/assets/primary/vvb-monogram-lockup-rod-rod-vit.png`
+- Favicon SVG: `assets/vvb-brand-standard-v1/assets/primary/vvb-favicon-red.svg` eller `assets/vvb-brand-standard-v1/assets/primary/vvb-favicon-dark.svg`
+- Favicon ICO: `assets/vvb-brand-standard-v1/assets/primary/favicon.ico`
+
+<!-- /coderabbit-ai-generated:v1 -->
 - Apple touch icon: `assets/vvb-logo-ratt-v4/favicons/apple-touch-icon.png`
 - Webmanifest: `assets/vvb-logo-ratt-v4/favicons/site.webmanifest`
 
@@ -67,7 +104,13 @@ När en extern PDF-renderare behöver absolut publik bild-URL, använd raw.githu
 
 Exempel PDF-header-logo:
 
-https://raw.githubusercontent.com/vvb-1/vvb-brand-assets/main/assets/vvb-logo-ratt-v4/logos/04b-main-logo-horisontell-liten-ren_4x.png
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:ab4c09189aed8438a5a2218335cb96eb885944a78eb7f95629e1673a5417dae3 -->
+
+https://raw.githubusercontent.com/vvb-1/vvb-brand-assets/main/assets/vvb-brand-standard-v1/assets/primary/vvb-logo-horizontal-small.png
+
+<!-- /coderabbit-ai-generated:v1 -->
 
 ## Manifest
 

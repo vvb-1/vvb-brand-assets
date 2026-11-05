@@ -1,26 +1,38 @@
-# VVB-STANDARD – Logotyper v1 (förslag, 2026-11-05)
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:7d2bcea567590a4e90d80ad6e56875f54794b17f89ed68604f36a5cf8f2d8dc1 -->
+
+# VVB-STANDARD – Logotyper v1 (2026-11-05)
+
+<!-- /coderabbit-ai-generated:v1 -->
 
 Status: **GODKÄND av Kristian 2026-11-05 ("OK standard").** Gäller som VVB-standard.
 Underlag: `VVB-LOGOTYPER-forslag-v1.zip` (34 filer, granskade en och en) samt godkända `vvb-brand-assets/assets/vvb-logo-ratt-v4` @53b6e12.
 
+<!-- coderabbit-ai-generated:v1 -->
+
+<!-- coderabbit-ai-generated-section:v1:e928ac75e5f6ff082b2152ba78216057319107ea8142b7fdefe06b2c28632600 -->
+
 ## Huvudfynd
-De starkaste filerna i arkivet (`1000186231.png`, `1000186270.png`) är **pixelidentiska** med redan godkända V4-filer (`DENNA ÄR RÄTT_RÖD_RÖD_VIT.png` och `01-main-logo-stor`); bilddiffen är 0,1 respektive 0,2 av 255.
+De starkaste filerna i arkivet (`1000186231.png`, `1000186270.png`) är **nära pixelidentiska** med redan godkända V4-filer (`DENNA ÄR RÄTT_RÖD_RÖD_VIT.png` och `01-main-logo-stor`); bilddiffen är 0,1 respektive 0,2 av 255.
 Två oberoende urval landade alltså på samma logga. Därför är VV^B-monogrammet (röd–röd–vit) fortsatt VVB:s enda primära märke.
 
 ## Primärt (använd alltid i första hand)
 | Fil | Användning |
 |---|---|
-| `primary/vvb-monogram-lockup-rod-rod-vit.png` | Huvudlogga: inloggning, PDF-försättsblad, profilbild, skylt |
-| `primary/vvb-main-logo-hero-car.png` | Stora ytor med bil: hero, banner, bakgrund till inloggning |
-| `primary/vvb-logo-horizontal-small.png` | Sidhuvud, PDF-header, mejlsignatur, appens header |
-| `primary/vvb-favicon-red.svg`, `vvb-favicon-dark.svg`, `favicon.ico` | Favicon och appikon |
+| `assets/primary/vvb-monogram-lockup-rod-rod-vit.png` | Huvudlogga: inloggning, PDF-försättsblad, profilbild, skylt |
+| `assets/primary/vvb-main-logo-hero-car.png` | Stora ytor med bil: hero, banner, bakgrund till inloggning |
+| `assets/primary/vvb-logo-horizontal-small.png` | Sidhuvud, PDF-header, mejlsignatur, appens header |
+| `assets/primary/vvb-favicon-red.svg`, `assets/primary/vvb-favicon-dark.svg`, `assets/primary/favicon.ico` | Favicon och appikon |
 
 ## Sekundärt (komplement, aldrig ersättning)
 | Fil | Användning |
 |---|---|
-| `secondary/vvb-wordmark-horizontal-dark.png` | Smala ytor utan plats för monogrammet, t.ex. sidfot och smal banner. |
-| `secondary/vvb-car-silhouette-wordmark-dark.png` | Kampanj, sociala medier, merch. Inte i logotypfält. |
-| `secondary/vvb-car-silhouette-banner-dark.png` | Bred kampanjbanner och webbhero. Inte i logotypfält. |
+| `assets/secondary/vvb-wordmark-horizontal-dark.png` | Smala ytor utan plats för monogrammet, t.ex. sidfot och smal banner. |
+| `assets/secondary/vvb-car-silhouette-wordmark-dark.png` | Kampanj, sociala medier, merch. Inte i logotypfält. |
+| `assets/secondary/vvb-car-silhouette-banner-dark.png` | Bred kampanjbanner och webbhero. Inte i logotypfält. |
+
+<!-- /coderabbit-ai-generated:v1 -->
 
 ## Avvisat (ska inte användas)
 - **Bokstav-V i rundad ruta** (`01–06_vi_vet_bil_*`, `logo*.svg`, `Varumärkesguide`, `image-gen-1(1/2)`, `image-gen-2(1)`, `image-gen-3(1)`): Generisk mall-look, ingen VVB-DNA. Den här varianten ska inte användas.
